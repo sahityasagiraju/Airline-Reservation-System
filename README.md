@@ -25,8 +25,7 @@ d. State Diagram
 
 ![image](https://user-images.githubusercontent.com/54180295/191901119-9cc8f908-4834-4bef-83ac-ba8eacb979b0.png)
 
-3.	Tools and Frameworks Used
-a.	Backend
+3.	Tools and Frameworks Used as	Backend
 i.	Java
 ii.	MySQL
 b.	Frontend
